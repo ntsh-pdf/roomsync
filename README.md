@@ -25,7 +25,11 @@ RoomSync is a full-stack space booking and reservation system designed to simpli
 
 ## Project Structure
 roomsync/
+
 ├── frontend/ # React.js application
+
 ├── backend/ # Node.js API server
+
 ├── database/ # SQLite database files
+
 └── README.md
